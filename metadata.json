@@ -1,0 +1,6 @@
+{
+  "name": "DermaSense AI",
+  "description": "Personalized AI dermatological assistant, scientific skincare routine builder, ingredient analyzer, and safety consultant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
